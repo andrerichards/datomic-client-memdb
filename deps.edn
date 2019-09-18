@@ -1,4 +1,4 @@
-{:deps    {com.datomic/client       {:mvn/version "0.8.69"}
+{:deps    {com.datomic/client       {:mvn/version "0.8.81"}
            com.datomic/datomic-free {:mvn/version "0.9.5697"}}
  :paths ["src"]
  :aliases {:test      {:extra-paths ["test"]}
